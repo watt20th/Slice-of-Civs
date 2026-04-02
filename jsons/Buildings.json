@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Banco",
+        "replaces": "Bank",
+        "uniqueTo": "Tuscany",
+        "specialistSlots": {"Merchant": 1, "Scientist": 1},
+        "hurryCostModifier": 15,
+        "percentStatBonus": {"gold": 25},
+        "requiredBuilding": "Market",
+        "requiredTech": "Banking"
+    }
+]
