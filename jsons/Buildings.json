@@ -5,6 +5,9 @@
         "uniqueTo": "Tuscany",
         "specialistSlots": {"Merchant": 1, "Scientist": 1},
         "hurryCostModifier": 15,
+        "uniques": [
+            "[+2 Gold] from [Great Improvement] tiles [in this city]",
+        ],
         "percentStatBonus": {"gold": 25},
         "requiredBuilding": "Market",
         "requiredTech": "Banking"
