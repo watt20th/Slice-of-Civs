@@ -1,0 +1,33 @@
+[
+  {
+		"name": "Tuscany",
+		"leaderName": "Cosimo I",
+		"adjective": ["Tuscan"],
+		"startBias": ["Avoid [Coast]","Grassland"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "Greetings, illustrious Cosimo, first Grand Duke of Tuscany and master of the Medici legacy. You did not merely inherit a name; you forged a dynasty that redefined the power of the Renaissance.",
+		"startIntroPart2": "Magnificent Duke, will you rule through the cold calculation of statecraft or the vibrant light of humanism? Your subjects await the return of the Golden Age. Can you build a civilization that will stand the test of time?",
+
+		"declaringWar": "Your presence has become a blemish on the landscape. It is time for a pruning.",
+		"attacked": "You mistake my refinement for weakness. Many have made that error; few survived to regret it.",
+		"defeated": "The sun sets on the Arno. Even the finest bronze eventually yields to the elements.",
+		"introduction": "Welcome to Tuscany. I am Cosimo Medici, Grand Duke of Tuscany. Speak, and let your words be as polished as my marble.",
+
+		"neutralHello": "Salutations.",
+		"hateHello": "I have ledgers more interesting than your company. What is it?",
+
+		"tradeRequest": "Prosperity is the mother of the arts. Let us ensure both flourish through this agreement.",
+
+		"outerColor": [232,206,83],
+		"innerColor": [213,0,0],
+
+		"uniqueName": "The Grand Duke Patronage",
+		"uniques": [
+			"[+25]% Great Person generation [in all cities]",
+    "uniqueText": "",
+		 
+		"cities": ["Firenze", "Pisa", "Siena", "Arezzo", "Grosseto", "Pistoia", "Lucca", "Livorno", "Portoferraio"],
+        "spyNames": ["Lorenzo", "Adamasco", "Isoliero", "Teleno", "Cecco", "Giacomo", "Duccio" ]
+	},
+]
