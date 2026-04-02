@@ -1,0 +1,23 @@
+[
+  {
+        "name": "St Stephen Knight",
+        "unitType": "Sword",
+        "replaces": "Longswordsman",
+        "uniqueTo": "Tuscany",
+        "movement": 2,
+        "strength": 20,
+        "cost": 120,
+        "requiredTech": "Guilds",
+        "upgradesTo": "Musketman",
+        "obsoleteTech": "Gunpowder",
+        "requiredResource": "Iron",
+        "promotions": [],
+        "uniques": [
+            "May attack when embarked",
+            "Eliminates combat penalty for attacking across a coast",
+            "Earn [50]% of killed [Military] unit's [Strength] as [Culture]",
+            "Earn [50]% of killed [Military] unit's [Strength] as [Gold]"
+        ],
+        "attackSound": "metalhit"
+    },
+]
