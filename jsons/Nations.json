@@ -24,8 +24,8 @@
 
 		"uniqueName": "The Grand Duke Patronage",
 		"uniques": [
-			"[+25]% Great Person generation [in all cities]",
-    "uniqueText": "",
+			"[+25]% Great Person generation [in all cities]"],
+        "uniqueText": "",
 		 
 		"cities": ["Firenze", "Pisa", "Siena", "Arezzo", "Grosseto", "Pistoia", "Lucca", "Livorno", "Portoferraio"],
         "spyNames": ["Lorenzo", "Adamasco", "Isoliero", "Teleno", "Cecco", "Giacomo", "Duccio" ]
